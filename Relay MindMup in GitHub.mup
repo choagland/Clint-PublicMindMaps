@@ -1,0 +1,24 @@
+{
+  "title": "Relay MindMup in GitHub",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "This is a mindmup node!",
+      "id": 2
+    },
+    "-1": {
+      "title": "This one has an attachment!",
+      "id": 3,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "This is the attachment!"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  }
+}
