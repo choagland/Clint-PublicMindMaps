@@ -10,6 +10,10 @@
         "1": {
           "title": "Now I'm adding something!",
           "id": 4
+        },
+        "2": {
+          "title": "Now I added a sibling to that thing.",
+          "id": 5
         }
       }
     },
