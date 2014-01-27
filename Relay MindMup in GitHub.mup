@@ -5,7 +5,13 @@
   "ideas": {
     "1": {
       "title": "This is a mindmup node!",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Now I'm adding something!",
+          "id": 4
+        }
+      }
     },
     "-1": {
       "title": "This one has an attachment!",
